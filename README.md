@@ -1,4 +1,4 @@
-# Time-Off Microservice (ReadyOn)
+# Time-Off Microservice
 
 ## Overview
 
