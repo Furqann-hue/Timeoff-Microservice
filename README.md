@@ -118,7 +118,6 @@ All tests include:
 ## Project Structure
 
 ```
-take_home/
 ├── src/
 │   ├── main.js
 │   ├── balance.js
